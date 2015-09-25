@@ -1,0 +1,19 @@
+{
+  "name": "modality",
+  "version": "0.0.1",
+  "homepage": "https://github.com/WICG/modality",
+  "authors": [
+    "Alice Boxhall (@sundress)",
+    "Brian Kardell (@briankardell)"
+  ],
+  "description": "attaches/manages metadata in the form of a modality attribute to the body, as a way to allow authors to experiment with adapting style based on the user's active input modality (i.e., how they are interacting with the UI right now).",
+  "main": "src/keyboard-modality.js",
+  "license": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
