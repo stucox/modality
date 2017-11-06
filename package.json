@@ -1,0 +1,29 @@
+{
+  "name": "modality",
+  "version": "0.0.1",
+  "description": "attaches/manages metadata in the form of a modality attribute to the body, as a way to allow authors to experiment with adapting style based on the user's active input modality (i.e., how they are interacting with the UI right now).",
+  "main": "src/keyboard-modality.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stucox/modality.git"
+  },
+  "keywords": [
+    "modality",
+    "css"
+  ],
+  "authors": [
+    "Alice Boxhall (@sundress)",
+    "Brian Kardell (@briankardell)"
+  ],
+  "license": "W3C",
+  "bugs": {
+    "url": "https://github.com/stucox/modality/issues"
+  },
+  "homepage": "https://github.com/stucox/modality#readme"
+}
